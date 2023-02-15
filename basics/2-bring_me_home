@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/$USER
+echo "Current working directory: $(pwd)"
