@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | xargs -n 4 | sed 's/ /    /g' | fold -w 47 -s
+ls | xargs -n 2 | sed 's/ /\n/g' | fold -w 47 -s
