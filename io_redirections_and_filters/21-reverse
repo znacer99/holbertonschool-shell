@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello everybody" | rev
+echo "$1" | rev
