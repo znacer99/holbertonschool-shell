@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (('$num=128\n')) | echo (($num=128+89))
+echo $( export $TRUEKNOWLEDGE +128)
