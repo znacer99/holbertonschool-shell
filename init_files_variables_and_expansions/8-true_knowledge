@@ -1,2 +1,2 @@
 #!/bin/bash
-num=128 | num=$[num+89] | echo $num
+echo (('$num=128\n')) | echo (($num=128+89))
