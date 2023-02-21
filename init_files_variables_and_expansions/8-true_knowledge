@@ -1,0 +1,2 @@
+#!/bin/bash
+num=1209 | num=$[num+128] | echo $num
